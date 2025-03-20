@@ -13,6 +13,18 @@ This repository contains comprehensive study materials for the NPTEL course **Se
 - **📝 Assignments** – Course assignments with solutions
 - **💻 Codes** – Scripts and programs demonstrating security attacks and countermeasures
 
+## Previous Assignment Solutions
+
+Here are the solutions for previous assignments. Watch these YouTube Shorts for reference:
+
+- [Week 3 Old Assignment](https://www.youtube.com/shorts/0UmS-ury_GU)
+- [Week 5 Old Assignment](https://www.youtube.com/shorts/S4qq-x--pHY)
+- [Week 6 Old Assignment](https://youtube.com/shorts/UVyxAdUc88o)
+- [Week 7 Old Assignment](https://www.youtube.com/shorts/ae86VDEr_IU)
+- [Week 8 Old Assignment](https://www.youtube.com/shorts/XsvJk7j3emA)
+
+Make sure to go through these for better understanding.
+
 ## 🛠️ How to Use
 1. Clone this repository to your local machine:
    ```bash
