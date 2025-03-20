@@ -10,8 +10,10 @@ This repository contains comprehensive study materials for the NPTEL course **Se
 
 ### 📁 Contents
 - **📑 PPTs** – Lecture slides for reference
-- **📝 Assignments** – Course assignments with solutions
+- **📝 Prev Assignments** – Course assignments with solutions last year.
 - **💻 Codes** – Scripts and programs demonstrating security attacks and countermeasures
+- **📝 Current Assignments** – Course assignments with solutions year 2025
+- **💻 Textbook** 
 
 ## Previous Assignment Solutions
 
